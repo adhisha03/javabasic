@@ -1,0 +1,30 @@
+public class Conditionex1 {
+       public static void main (String[] args){
+          int x=10;
+          int y=20;
+          int z=30;
+           if (x<y){
+         system.out.println("x is less than of y");
+
+}
+         }else if (y>z){
+         system.out.println("y is greater than of z");
+
+         }else{
+         system.out.println(false);
+
+
+         int x=10;
+         system.out.println(a>5&&a<20);
+
+         int x=10;
+         system.out.println(a>5||a<7);
+
+         int c=5;
+         int v=3;
+         system.out.println(c==v);
+
+
+
+
+
